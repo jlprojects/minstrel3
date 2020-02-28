@@ -27,7 +27,7 @@ I have also made a case design based on this one to house the Minstrel 3 and ZXp
 
 ## Case construction
 
-<img src="images/minstrelCase.png" alt="Minstrel 3 in 3d printed case" width="400">
+<img src="images/MinstrelCase.png" alt="Minstrel 3 in 3d printed case" width="400">
 
 Case design ©2020 Jason Lane
 
