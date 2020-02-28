@@ -35,24 +35,24 @@ included if you wish to adapt it. It is meant to be reminiscent of the original 
 
 Led Spacer
 
-<img src="images/ledspacer.jpg" alt="LED spacer" width="200">
-<img src="images/leds-soldered2.jpg" alt="LED soldered" width="200">
+<img src="images/ledspacer.jpg" alt="LED spacer" width="300">
+<img src="images/leds-soldered2.jpg" alt="LED soldered" width="300">
 
 Option switches
 
-<img src="images/option-switches4.jpg" alt="Option Switches" width="200">
-<img src="images/option-switches1.jpg" alt="Option Switches" width="200">
-<img src="images/option-switches2.jpg" alt="Option Switches" width="200">
-<img src="images/switchwiring.jpg" alt="Option Switches" width="200">
+<img src="images/option-switches4.jpg" alt="Option Switches" width="300">
+<img src="images/option-switches1.jpg" alt="Option Switches" width="300">
+<img src="images/option-switches2.jpg" alt="Option Switches" width="300">
+<img src="images/switchwiring.jpg" alt="Option Switches" width="300">
 
 Reset plunger
 
-<img src="images/reset.jpg" alt="Reset" width="200">
+<img src="images/reset.jpg" alt="Reset" width="300">
 
 Keyboard Spacers
 
-<img src="images/keyboard-spacers.jpg" alt="Keyboard Spacers" width="200">
-<img src="images/keyboard-screws.jpg" alt="Keyboard" width="200">
+<img src="images/keyboard-spacers.jpg" alt="Keyboard Spacers" width="300">
+<img src="images/keyboard-screws.jpg" alt="Keyboard" width="300">
 
 Case design ©2020 Jason Lane
 
