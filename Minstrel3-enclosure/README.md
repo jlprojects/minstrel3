@@ -10,7 +10,7 @@ In addition to the 3d printed parts you will need:
 
 * 4 x M3x12mm countersunk machine screws for attaching the lid to the base
 * 6 x 3mm dia by 10mm or 12mm self tapping screws for the keyboard overlay and rear switch holder bar
-* Up to 5 miniature slide switches for the option jumpers
+* Up to 5 miniature slide switches for the option jumpers   C&K OS102011MS2QN1 - available from Digikey part CKN9565-ND
 * optional 4x JST-XH style 3way 2.54mm pitch housings and connectors for the jumpers - these are lower profile than jumper pins and Dupont connectors - or just solder the switch wires to the jumper pins
 * hookup wire and heatshrink sleeving for the switches
 * 4 x circular rubber feet 10mm diameter to stop the case from slipping
