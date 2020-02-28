@@ -30,6 +30,8 @@ included if you wish to adapt it. It is meant to be reminiscent of the original 
 ## Case construction
 
 <img src="images/minstrel3.jpg" alt="Minstrel 3 in 3d printed case" width="400">
+<img src="images/MinstrelZXpandCase.png" alt="Minstrel 3 in 3d printed case" width="400">
+
 
 Led Spacer
 
@@ -51,3 +53,9 @@ Keyboard Spacers
 
 <img src="images/keyboard-spacers.jpg" alt="Keyboard Spacers" width="200">
 <img src="images/keyboard-screws.jpg" alt="Keyboard" width="200">
+
+Case design ©2020 Jason Lane
+
+## Licence
+
+Unless otherwise marked, work in this repository is licenced under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)  ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
